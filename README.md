@@ -1,83 +1,106 @@
-# Hi, I'm Maria Arias 👋
+<div align="center">
 
-**Software Development Student | Backend & Full-Stack Developer in Progress**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=7C6AFF&center=true&vCenter=true&width=560&lines=Hi%2C+I'm+Maria+Arias+%F0%9F%91%8B;Backend+%26+Full-Stack+Developer+in+Progress;Building+APIs%2C+one+endpoint+at+a+time" alt="Typing SVG" />
 
-Estudiante de desarrollo de software apasionada por construir proyectos, aprender nuevas tecnologías y entender cómo funciona el software por dentro. Actualmente enfocada en mejorar mis habilidades en desarrollo backend, APIs, bases de datos, DevOps y arquitectura de software.
+<br/>
 
----
+Estudiante de desarrollo de software apasionada por construir proyectos, aprender nuevas tecnologías y entender cómo funciona el software por dentro.
+Actualmente enfocada en **backend, APIs, bases de datos, DevOps y arquitectura de software**.
 
-### 🚀 Currently learning
+<br/>
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Fastify](https://img.shields.io/badge/-Fastify-000000?style=flat-square&logo=fastify&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![REST APIs](https://img.shields.io/badge/-REST%20APIs-25A162?style=flat-square&logo=fastapi&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git%20%26%20GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Testing](https://img.shields.io/badge/-Testing-C21325?style=flat-square&logo=jest&logoColor=white)
-![Architecture](https://img.shields.io/badge/-Software%20Architecture-4B0082?style=flat-square)
+[![GitHub](https://img.shields.io/badge/GitHub-mariaarias092-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mariaarias092)
 
----
+</div>
 
-### 🛠️ Technologies
+<br/>
+
+## 🚀 Currently learning
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,fastify,postgres,redis,docker,git,jest&theme=dark" alt="Currently learning stack" />
+</div>
+
+<br/>
+
+## 🛠️ Technology Stack
+
+<div align="center">
 
 **Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=ts,js,py&theme=dark" />
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+<br/><br/>
 
 **Backend**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,fastify&theme=dark" />
 
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Fastify](https://img.shields.io/badge/-Fastify-000000?style=flat-square&logo=fastify&logoColor=white)
+<br/><br/>
 
 **Databases**
+<br/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" />
 
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+<br/><br/>
 
 **Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman&theme=dark" />
 
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+</div>
 
----
+<br/>
 
-### 📌 Projects
+## 📌 Featured Project
 
-**[TechPulse](https://github.com/mariaarias092)**
-Proyecto personal enfocado en recopilar noticias de tecnología, procesar la información y enviar notificaciones diarias personalizadas a los usuarios.
+<div align="center">
 
----
+<a href="https://github.com/mariaarias092">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=mariaarias092&repo=TechPulse&theme=dark&hide_border=true&bg_color=0d1117" alt="TechPulse" />
+</a>
 
-### 📚 What I'm interested in
+**TechPulse** — Recopila noticias de tecnología, procesa la información y envía notificaciones diarias personalizadas a los usuarios.
 
-- Backend development
-- APIs
-- Databases
-- DevOps
-- Software architecture
-- Distributed systems
-- Automation
-- Artificial Intelligence
+</div>
 
----
+<br/>
 
-### 📫 Contact
+## 📚 Interests
 
-[![GitHub](https://img.shields.io/badge/-mariaarias092-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mariaarias092)
+<div align="center">
 
----
+`Backend Development` `APIs` `Databases` `DevOps`
+`Software Architecture` `Distributed Systems` `Automation` `Artificial Intelligence`
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mariaarias092&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Maria's GitHub Stats" />
-</p>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mariaarias092&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=mariaarias092&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=7C6AFF&icon_color=7C6AFF&count_private=true" alt="Maria's GitHub Stats" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=mariaarias092&theme=dark&hide_border=true&background=0d1117&ring=7C6AFF&fire=7C6AFF" alt="GitHub Streak" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaarias092&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=7C6AFF" alt="Top Languages" />
+
+</div>
+
+<br/>
+
+## 📫 Let's Connect
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mariaarias092)
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=mariaarias092&label=Profile%20Views&color=7C6AFF&style=for-the-badge" alt="Profile views" />
+
+</div>
