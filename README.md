@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=7C6AFF&center=true&vCenter=true&width=560&lines=Hi%2C+I'm+Maria+Arias+%F0%9F%91%8B;Backend+%26+Full-Stack+Developer+in+Progress;Building+APIs%2C+one+endpoint+at+a+time" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=7C6AFF&center=true&vCenter=true&width=650&height=50&lines=Hi%2C+Im+Maria+Arias+%F0%9F%91%8B;Backend+%26+Full-Stack+Developer;Building+APIs%2C+one+endpoint+at+a+time" alt="Typing SVG" />
 
 <br/>
 
@@ -18,7 +18,8 @@ Actualmente enfocada en **backend, APIs, bases de datos, DevOps y arquitectura d
 ## 🚀 Currently learning
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,nodejs,fastify,postgres,redis,docker,git,jest&theme=dark" alt="Currently learning stack" />
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,postgres,redis,docker,git,jest&theme=dark" alt="Currently learning stack" />
+  <img src="https://img.shields.io/badge/Fastify-black?style=for-the-badge&logo=fastify&logoColor=white" alt="Fastify" height="48"/>
 </div>
 
 <br/>
@@ -35,7 +36,8 @@ Actualmente enfocada en **backend, APIs, bases de datos, DevOps y arquitectura d
 
 **Backend**
 <br/>
-<img src="https://skillicons.dev/icons?i=nodejs,fastify&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs&theme=dark" />
+<img src="https://img.shields.io/badge/Fastify-black?style=for-the-badge&logo=fastify&logoColor=white" alt="Fastify" height="48"/>
 
 <br/><br/>
 
@@ -78,14 +80,6 @@ Actualmente enfocada en **backend, APIs, bases de datos, DevOps y arquitectura d
 
 <br/>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=mariaarias092&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=7C6AFF&icon_color=7C6AFF&count_private=true" alt="Maria's GitHub Stats" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=mariaarias092&theme=dark&hide_border=true&background=0d1117&ring=7C6AFF&fire=7C6AFF" alt="GitHub Streak" />
-
-<br/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaarias092&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=7C6AFF" alt="Top Languages" />
 
@@ -98,3 +92,9 @@ Actualmente enfocada en **backend, APIs, bases de datos, DevOps y arquitectura d
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mariaarias092)
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=mariaarias092&label=Profile%20Views&color=7C6AFF&style=for-the-badge" alt="Profile views" />
+
+</div>
