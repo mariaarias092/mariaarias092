@@ -59,9 +59,6 @@ Actualmente enfocada en **backend, APIs, bases de datos, DevOps y arquitectura d
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=mariaarias092&repo=TechPulse&theme=dark&hide_border=true&bg_color=0d1117" alt="TechPulse" />
-</a>
-
 **TechPulse** — Recopila noticias de tecnología, procesa la información y envía notificaciones diarias personalizadas a los usuarios.
 
 </div>
@@ -91,7 +88,5 @@ Actualmente enfocada en **backend, APIs, bases de datos, DevOps y arquitectura d
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mariaarias092)
 
 <br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=mariaarias092&label=Profile%20Views&color=7C6AFF&style=for-the-badge" alt="Profile views" />
 
 </div>
