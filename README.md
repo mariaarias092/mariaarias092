@@ -59,7 +59,6 @@ Actualmente enfocada en **backend, APIs, bases de datos, DevOps y arquitectura d
 
 <div align="center">
 
-<a href="https://github.com/mariaarias092">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=mariaarias092&repo=TechPulse&theme=dark&hide_border=true&bg_color=0d1117" alt="TechPulse" />
 </a>
 
@@ -80,8 +79,6 @@ Actualmente enfocada en **backend, APIs, bases de datos, DevOps y arquitectura d
 
 <br/>
 
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaarias092&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=7C6AFF" alt="Top Languages" />
 
 </div>
 
